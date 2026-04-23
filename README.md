@@ -8,7 +8,6 @@ Passionate about transforming legacy monoliths into scalable microservices. I br
 
 ### 🌐 Connect with me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Personal Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rss.svg" />][website]
 
 <br />
 
@@ -36,8 +35,8 @@ Passionate about transforming legacy monoliths into scalable microservices. I br
 
 ### 📊 My GitHub Stats
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=BrunoForte&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoForte&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -50,7 +49,6 @@ Passionate about transforming legacy monoliths into scalable microservices. I br
 ---
 
 ### 📈 Activity Graph
-![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME_HERE&theme=tokyonight&hide_border=true)
+![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BrunoForte&theme=tokyonight&hide_border=true)
 
-[linkedin]: https://linkedin.com/in/YOUR_LINKEDIN_ID
-[website]: https://YOUR_PORTFOLIO_URL
+[linkedin]: https://linkedin.com/in/bruno--forte/
