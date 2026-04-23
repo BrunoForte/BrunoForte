@@ -17,6 +17,7 @@ Passionate about transforming legacy monoliths into scalable microservices. I br
 
 **Languages & Frameworks**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
 ![Apache Camel](https://img.shields.io/badge/Apache%20Camel-E27A11?style=for-the-badge&logo=apache-camel&logoColor=white)
@@ -36,7 +37,6 @@ Passionate about transforming legacy monoliths into scalable microservices. I br
 
 ### 📊 My GitHub Stats
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=BrunoForte&show_icons=true&theme=tokyonight&hide_border=true" />
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoForte&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -48,8 +48,5 @@ Passionate about transforming legacy monoliths into scalable microservices. I br
 * **Creative AI:** Exploring the intersection of AI-generated music and folklore imagery for immersive storytelling.
 
 ---
-
-### 📈 Activity Graph
-![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BrunoForte&theme=tokyonight&hide_border=true)
 
 [linkedin]: https://linkedin.com/in/bruno--forte/
